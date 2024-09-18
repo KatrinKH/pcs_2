@@ -1,16 +1,10 @@
-# pcs_2
+# Хомик Екатерина Андреевна ЭФБО-06-22
 
-A new Flutter project.
+Практическая работа 2
 
-## Getting Started
+## Выполнение
 
-This project is a starting point for a Flutter application.
+### Запуск на эмуляторе
 
-A few resources to get you started if this is your first Flutter project:
+<img width="428" alt="Айфон" src="https://github.com/user-attachments/assets/beff84f2-34c0-4137-b699-a3fee1213a22">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
